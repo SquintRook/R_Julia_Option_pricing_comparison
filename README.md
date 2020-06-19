@@ -1,1 +1,4 @@
-# R_Julia_Option_pricing_comparison
+### Comparing Monte Carlo option pricing in R and Julia languages
+
+#### github document:
+https://squintrook.github.io/R_Julia_Option_pricing_comparison/
